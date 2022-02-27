@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact description of a Roundhead, and a long-head shag-poll: taken our [sic] of the purest antiquities and records. Wherein are confuted the odious aspersions of malignant spirits: especially in answer to those most rediculous, absurd and beyond comparison, most foolish baffle-headed pamphlets sent into the world by a sinking locust, viz. The devill turn'd Round-head. The resolution of the Round-head. [double brace] The vindication of the Round-head. and Jourdan the players ex-exercising [sic].</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84197</idno>
+            <idno type="STC">Wing E3638</idno>
+            <idno type="STC">Thomason E238_21</idno>
+            <idno type="STC">ESTC R20844</idno>
+            <idno type="EEBO-CITATION">99867393</idno>
+            <idno type="PROQUEST">99867393</idno>
+            <idno type="VID">158232</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84197)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158232)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 41:E238[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact description of a Roundhead, and a long-head shag-poll: taken our [sic] of the purest antiquities and records. Wherein are confuted the odious aspersions of malignant spirits: especially in answer to those most rediculous, absurd and beyond comparison, most foolish baffle-headed pamphlets sent into the world by a sinking locust, viz. The devill turn'd Round-head. The resolution of the Round-head. [double brace] The vindication of the Round-head. and Jourdan the players ex-exercising [sic].</title>
+                  <author>Taylor, John, 1580-1653,</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Tomlinson, and are to sold [sic] in the Ould-Baily.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sometimes attributed to John Taylor.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Roundheads --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158232:1" rendition="simple:additions"/>
+            <p>AN EXACT DESCRIPTION OF A ROUNDHEAD, AND A LONG-HEAD SHAG-POLL: <hi>Taken out of the pureſt Antiquities and Records.</hi>
+            </p>
+            <p>Wherein are confuted the odious aſperſions of Malignant Spirits: Eſpecially in anſwer to thoſe moſt rediculous, abſurd and beyond compariſon, moſt fooliſh Baffle-headed Pamphlets ſent into the World by a S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inking Locuſt, viz.</p>
+            <list>
+               <item>The Devill turn'd Round-Head.</item>
+               <item>The Reſolution of the Round-Head.</item>
+               <item>The <g ref="char:V">Ʋ</g>indication of the Round-Head. <hi>and</hi>
+               </item>
+               <item>
+                  <hi>Jourdan</hi> the Players ex<g ref="char:EOLhyphen"/>exerciſing.</item>
+            </list>
+            <figure>
+               <figDesc>depiction of a Roundhead and a Cavalier with views of London and York in the background</figDesc>
+               <figure>
+                  <head>Lon:</head>
+                  <figDesc>view of London and the Thames</figDesc>
+               </figure>
+               <figure>
+                  <head>YORKE</head>
+                  <figDesc>view of the skyline of York</figDesc>
+               </figure>
+               <lg>
+                  <l>This Man of haire whom you ſee marching heere,</l>
+                  <l>Is that brave Ruffian Mounſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ire Cavilier.</l>
+                  <l>But let him not make ſo much haſt for hee,</l>
+                  <l>Muſt be drawn' back, and ſtayd by Gregore.</l>
+               </lg>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>George Tomlinſon,</hi> and are to ſold in the <hi>Ould-Baily.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:158232:2"/>
+            <pb n="3" facs="tcp:158232:2"/>
+            <head>
+               <g ref="char:leaf">❧</g> A True diſcription of the <hi>ROVND-HEADS.</hi>
+            </head>
+            <p>ANd firſt there is laid downe in theſe eight generall heads:
+<list>
+                  <item>Firſt, the Originall of them both, <hi>Gen.</hi> 2.7. <hi>Revel.</hi> 9.</item>
+                  <item>Secondly, where they were made, as in the ſame record you ſhall finde.</item>
+                  <item>Thirdly of what made, the ſame records alſo declares.</item>
+                  <item>Fourthly, by whom made, there you ſhall finde it alſo.</item>
+                  <item>Fiftly, how they are qualified, there you ſhall finde it alſo.</item>
+                  <item>Sixtly, of the number of either of them, that you ſhall finde <hi>Mat.</hi> 7.13. <hi>Revel.</hi> 9. of their uſe and particular end <hi>Pſal</hi> 73.</item>
+                  <item>Eightly, and laſtly of their laſt, and finall end that is <hi>Mat.</hi> 25.</item>
+               </list>
+            </p>
+            <p>All theſe are ſeverally handled more plainely and largely in their order by <hi>W. P.</hi>
+            </p>
+            <p>A faithfull ſouldier of the ſixt legion belonging unto the chiefe generall of the moſt victorious regiment of the Round-heads. Writ<g ref="char:EOLhyphen"/>ten upon the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>laine of the earth, in the midſt of an innumerable rab<g ref="char:EOLhyphen"/>ble gathered together by the Devill of ſhag poll locuſts, for the de<g ref="char:EOLhyphen"/>ſtruction of the Round heads.</p>
+            <p>And firſt to begin with the Round-heads Originall:<lb/> His beginning was the ſixt and laſt day of the worlds creation, in time preceeding and going before that of the Locuſt ſhag-polls, be<g ref="char:EOLhyphen"/>ing of more antiquity, and therefore more to bee had in honour of thoſe that reverence antiquity of time more then your ſhag-poll Locuſts are.</p>
+            <p>Secondly, for the place where your Roun-head was made: why; he was made in a place incomparable, more excellent than wherein your ſhag-pole Locuſt was made, as you ſhall heare hereafter, hee was made in a delicate place, even in Paradice a place of ſpoileſſe purity, and delightful content; a place fit for a Roundheaded puritan and <hi>ſemy</hi>-ſeparate to be made in: your <hi>ſemy</hi>-ſeperate, puritan, and
+<pb n="4" facs="tcp:158232:3"/>Round head, are computable 3. objects comprehended in one ſub<g ref="char:EOLhyphen"/>ject, being all made of one and the ſelfeſame matter, as alſo of one and the ſelfeſame nature, differing onely in the pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cedency of the titles, the title <hi>ſemy</hi>-ſeparates, and Roundhead, iſſuing out of the as the ſtreame iſſues out of the fountaine being all one as the foun<g ref="char:EOLhyphen"/>taine and his ſtreame is.</p>
+            <p>Thirdly, by whom was your Puritan or Round head made? your Puritan or Round-head was made by him who made the round world, and all that therein is, by <hi>Iehovah Elohim</hi> in moſt perfect beauty, ſhape, and forme, moſt admirable, compoſed in moſt com<g ref="char:EOLhyphen"/>ly proportion and order, his Round head not Aſſ-Head like but round indeed; which being looked upon by God himſelfe, hee ſaw that it was good, yea, moſt exceeding good and liked it wonderous well, ſo that hee bleſſed his roundhead by him made, bids him in<g ref="char:EOLhyphen"/>creaſe &amp; bring forth fruit, yea even that fruit that ſhould deſtroy the ſhagpolle locuſts, all the workes of the Devill from off the earth.</p>
+            <p>Fourthly, of what made? he was made of that matter which that name which God gave him ſignifies, of red earth this <hi>Adam</hi> which the ſhag polls in deriſion calles a Roundhead, was made of red earth or of red duſt, which to prevent ſome fooliſh objection, ſig<g ref="char:EOLhyphen"/>nifies one and the ſame thing.</p>
+            <p>Fifthly, how is this Round head qualified? admirably, with grace and vertue of unvalued worth, as, firſt with innocency of lift compoſed and mixt with rare ingredients, of mercy, truth and love, as alſo with rare wiſedome and underſtanding, ſo that he did know the compoſition, and ſecret natures of all the creatures in the world, and ſo was able to give them names according to their nature, and ſo he did; thus internally and externally was this Round-head qualified with Admirable Wiſedome, Beauty, Comelines, and ſtrength.</p>
+            <p>Sixtly, for his number and increaſe: why, for his increaſe of num<g ref="char:EOLhyphen"/>ber it was ſmall, excellent for quality, but ſew for quantity, in re<g ref="char:EOLhyphen"/>gard as the time now is and ever was, but here and there one; excel<g ref="char:EOLhyphen"/>lent and exquiſite things being alwaies ſcant, and rareſt to be found, and that is the thing, together with their ſecret vertue, that makes them be of ſuch account with thoſe that knowes their worth, which knowledge of them, as they are, it is onely in God and amongſt themſelves, for fooliſh ſhag-poll locuſts have no knwledge of their
+<pb n="5" facs="tcp:158232:3"/>excellency, nor are no more able to diſcerne their ſplendor, then a blind man that never ſaw the Sunne, is able to judge or diſcerne the glory or the illuſtrious beauty of the Sunne.</p>
+            <p>Seventhly, of the Round-heads uſe, what is he uſefull for? the Round<g ref="char:EOLhyphen"/>heads uſe is manyfold, of many ſorts and kinds, but all for good; and firſt to ſet forth the ſplendid glory of the juſtice of God, his grace manifeſted to them in the face and favour of Jeſus Chriſt, but never unto the ſhag-poll locuſts. Secondly, to ſet or ſhew forth the vertues of Jeſus Chriſt, the ſecond perſon in Trinity, that hath therefore called theſe Round heads out of darkeneſſe into light, that they ſhould ſhew forth his vertues, and ſo they doe as on the contrary the Shag-poll ſhewes forth the vices of the Devill. Their third uſe is to be ſtore houſes of wiſedome. Their fourth uſe to be temples of the living God. Fiftly, to be teachers and inſtructers of men for the praiſe and glory of God, his ſecrets being made known un<g ref="char:EOLhyphen"/>to them onely. Sixtly, to denounce his Iudgements againſt the world. <hi>Revel.</hi> 18. about the beginning, for theſe Round-heads are called his <hi>An<g ref="char:EOLhyphen"/>gels. Revel.</hi> 2. <hi>Angel</hi> being a name of Office, not of nature alwaies. Se<g ref="char:EOLhyphen"/>venthly, they are uſefull to keepe off his Iudgements, ſometimes from the Shagpoll, as that Round-head <hi>Lot</hi> while he was among the ſhagpoll Lo<g ref="char:EOLhyphen"/>cuſts Sodomites, the fire and brimſtone could not come downe to burne them; as alſo here in <hi>England,</hi> how does theſe Round-heads keepe off the peſtelence, ſword, and famine from the ſhagpoles heere, and are the cauſe that many temporall bleſſings doth come upon them, which notwithſtan<g ref="char:EOLhyphen"/>ding theſe ſhagpoll locuſts know, that it is for their ſakes that they re<g ref="char:EOLhyphen"/>ceive theſe benefits, yet they cannot endure them.</p>
+            <p>Eightly, and laſtly, what is the finall end of the Roundheads? their fi<g ref="char:EOLhyphen"/>nall end next the glory of God is the ſalvation of his owne ſoule, his finall is the redemption from all miſeries in this mortall life here and for ever, hereafter which no ſhagpoll locuſt muſt inioy his final end is to be a king, to raigne with Chriſt for ever, to be an heire with Chriſt, an inheritour and poſſeſſer of all things with him to all eternity; as alſo to praiſe and glorifie God for ever in an everlaſting ſtate of bleſſedneſſe in the higheſt heaven, out of which all ſlanderous lying, ſcorning, barking, ſhagpoll lo<g ref="char:EOLhyphen"/>cuſts muſt be ſhut, <hi>Revel.</hi> 22.15 without ſhall be dogs, ſhagpoll locuſts, he meanes inchanter<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, whoremongers and Idolaters, and whoſoever loveth lies or makes lyes, be they Prieſts, or Peſants, or whatſoever.</p>
+            <p>And thus have we finiſhed your Round head.</p>
+            <p>The ſecond generall head to be handled is your Shagpoll locuſt origi<g ref="char:EOLhyphen"/>rall when it was.</p>
+            <pb n="6" facs="tcp:158232:4"/>
+            <p> Your ſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g poll locuſts originall was the opening of the bottomleſſe pit <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 9. the ſmoaky pit, out of that ſmoak, came thoſe ſhag poll locuſts, that wear hair like women, which was long after the making of the Round<g ref="char:EOLhyphen"/>heads: therefore are they of no ſuch antiquity as your Round-heads are: and therefore according to your own rules are not ſo honourable as your Round-heads are.</p>
+            <p>Secondly, the place where they were made: why, they were made in the bottomleſſe pit, as is aboue mentioned, they came out of the bottom<g ref="char:EOLhyphen"/>leſſe pit, at the place from whence they came, there were they made.</p>
+            <p>Thirdly, by whom were they made? why, by the devill the father of all ſlanderers and lyers, ſuch as theſe locuſts are, whether locuſts teachers, or locuſts hearers, who made them all in uncomely, and in unmanly order, for they had haire like women, faces like men, and teeth like a Lyon, <hi>Rev.</hi> 9. <hi>ver.</hi> 7.8. all like deformed monſters, aſwell in-ſide as out-ſide, exceeding bad and vile, full of confuſion and deformed diſorder, as well the Preiſts as people.</p>
+            <p>Fourthly, of what made? why, as firſt his caſe or outſide he is made of duſt as your Round-head is, although he knowes it not as your Round-head doth, but for his pitch or inſide it is <hi>ſemen incubae,</hi> or <hi>ſperma diaboli</hi> he is made of the ſeed or ſpaun of the Devill: as concerning the conſtitu<g ref="char:EOLhyphen"/>tion of his mind, murtherers and lyers are they, and ſo is he.</p>
+            <p>Fiftly, how are they qualified? why, clean contrary to your Round-heads, not with innocency of life, but with nocency, with groſſe and pal<g ref="char:EOLhyphen"/>pable ignorance, and blindneſſe in ſpirituall and heavenly things, full of conceitedneſſe of having that which they are utterly empty of, but being full indeed of the ſpirit: now I know to hear the name of Spirit will vexe them, for they defie ſuch as are full of the Spirit: but to quiet them a lit<g ref="char:EOLhyphen"/>tle, I give them to underſtand, that that Spirit which they meane, is not the Spirit I mean, the ſpirit that I mean here that they are filled with; is the ſpirit of lying and ſlandering, and falſe accuſing of the Round-heads, the ſpirit of whoredom and unſatiable luſt, the ſpirit of envy; malice, and murther, of drunkenneſſe, epicuriſme, and all manner of looſe prophane<g ref="char:EOLhyphen"/>neſſe, the ſpirit of hatred againſt the appearance of any goodneſſe, though never ſo little, for they nothing almoſt but profit impiety like the devill himſelf, which raignes effectually in them, and he it is that hath thus qua<g ref="char:EOLhyphen"/>lified them, and which hath alſo blinded them in their judgments, that they cannot diſcern the nature and difference of things, but judge good to be evil, and evil to be good, <hi>Iohn</hi> 16.1.2. They ſhall excommunicate you
+<pb n="7" facs="tcp:158232:4"/>and he that kils you ſhall think he doth God good ſervice: whether this be ſo or no, I refer you to your ſelves, all you ſhag-poll Locuſts.</p>
+            <p>Sixtly, for their number and increaſe, it is wonderfull, in number they exceed the Round-heads, to ſpeake comparatively, more then the muſca<g ref="char:EOLhyphen"/>toes and flyes exceeds in number the Eagles, they darken the light of the Sunne with their multitude, as did the flyes of <hi>Egypt.</hi>
+            </p>
+            <p>They are not rare to be found, as are the Eagles and the Round-heads, there are whole ſwarmes of them in every place; and as hurtfull and trou<g ref="char:EOLhyphen"/>bleſome to your Round-heads in old <hi>England;</hi> as your Muſcatoes are to your Round-heads in <hi>New-England,</hi> and every way as evill to be dealt with<g ref="char:EOLhyphen"/>all, for the more you ſtrive to beat them off, the more they muſter and ſwarm about you, ſo that there is no way of quietneſſe for a Round-head but to avoid them.</p>
+            <p>Seventhly, for their uſe, that alſo is divers, but tending all to hurt, yet contrary to their mindes it effects good, not to themſelves, but to the Round-heads, whom their whole intent and deſire is to hurt. Now their firſt uſe is, to afflict the Round-heads, which if your ſhag poll did know, what good they did unto your Round-heads, by afflicting of them, by their wrongs and injuries they do unto them, then would they never do it unto them: for firſt they teach them experience of the worlds vanity, ſe<g ref="char:EOLhyphen"/>condly, they make them weary of the world, and weane them from the love of the world, the love thereof would be their deſtruction: thirdly; they make them by their outragious wrongs and injuries they doe unto them, more ſplendid, bright, and lovely in the ſight of God and good men; fourthly by the ſhag-polls hatred of them, they come to have certain knowledge, that God loves them, which otherwiſe they could not have: for if the ſhag-poll Locuſts loved them, it were a certain ſigne they were hated of God, for your ſhag poll loves none but ſuch as God hates: fifthly they increaſe the Round heads glory in heaven, for the more they ſcorne them here, the more ſhall they be honoured there: ſixtly, the ſhag polls by reaſon of their out-ragious wrongs and injuries that they doe unto the Round heads they make this world a hell unto the Round heads, wherein theſe ſhag polls like devils do torment them, ſo that they ſhall have no hel hereafter, as your ſhag polls ſhall: other ſorts of uſes that they ſerve for is, firſt to make veſſels of diſhonour: ſecondly to declare the iuſtice of his wrath upon, and to teach the Round heads, that though he do for a time ſpare his and their enemies, that yet he will not alwaies ſpare them: and laſtly to be ſuch firebrands of hell, as ſhall never be taken forth.</p>
+            <pb n="8" facs="tcp:158232:5"/>
+            <p> Eightly and laſtly, of their finall end, their finall end next to the glory of the juſtice of Gods wrath, is to be damned, for their end is damnation, thy minde nothing b<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> earthly things their God is their belly, they glory in ſhamefull things, their con<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>a<g ref="char:EOLhyphen"/>tion i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not in heaven, therefore by God his definitive ſentence, their finall end is dam<g ref="char:EOLhyphen"/>nation.</p>
+            <p>And thus much for your Round-heads and your Shag-polls.</p>
+            <p>Only this by the way of Advertiſement to the honeſt-hearted Chriſtian Reader, that though ſome doe either through ignorance, or ſome infirmity occaſioning, weare their haire longer then may in ſome mens judgement ſeeme fitting, for men profeſſing themſelves to be Chriſtians to weare; know you that wee intend not a definitive ſen<g ref="char:EOLhyphen"/>tence againſt any particular perſon for weari g of their haire, but yet doe wiſh them for the better informing of their judgements to conſider the Apoſtles rule concerning haire, in 1 <hi>Cor.</hi> 11.14. where he may have full ſatisfaction; and further alſo wee give you to underſtand, that we are ſo farre off from a particular ſentence that we beleeve that their are many among the Long-heads, that may belong unto the Round-heads, and that may in time declare themſelves; and this alſo, that there are many Locuſt a<g ref="char:EOLhyphen"/>mong the Round-heads, that now ſeem to be Round-heads, yet are not ſo, and will de<g ref="char:EOLhyphen"/>clare themſelves to be but Locuſts; yet notwithſtanding that, all that we are not long hair are not Locuſts; as alſo, all that weare not long hair, are not Round-heads yet is long hair the viſible ſigne or marke to diſtinguiſh a Locuſt, <hi>Rev.</hi> 9.8. <hi>And they had hair like women.</hi>
+               <q>
+                  <lg>
+                     <l>Not long agone a Champion came from Hell.</l>
+                     <l>To bid defiance to the hoſt of Heaven:</l>
+                     <l>But with the Puritans he hath no minde to deal,</l>
+                     <l>Becauſe with them to no end he hath ſtriuen.</l>
+                     <l>A periwig inſtead of Helmet on his head he weares,</l>
+                     <l>To prove, if he by that can hide his <hi>Midas</hi> cares.</l>
+                  </lg>
+                  <lg>
+                     <l>His armour looſe prophaneneſſe is, and Hatred ſtrong,</l>
+                     <l>Diſdain, contempt of God and goodneſſe all:</l>
+                     <l>Murtherous deſire, by him retained long:</l>
+                     <l>By which at laſt he hopes to make to fall</l>
+                     <l>The Puritan, which now be Round head call:</l>
+                     <l>A terme by which he thinks to overthrow,</l>
+                     <l>And beat all goodneſſe from the earth below.</l>
+                  </lg>
+                  <lg>
+                     <l>By this deſign: he doubts not but to ſtop</l>
+                     <l>The breath and life of goodneſſe in this land:</l>
+                     <l>And ſpoile that strength that Puritans have got,</l>
+                     <l>And by this title Round head to ſet all good at ſtand.</l>
+                     <l>But ſilly Long head that hair is not thine own,</l>
+                     <l>'Tis but ſome harlots, though by thee it's worne.</l>
+                  </lg>
+               </q>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
